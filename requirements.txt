@@ -5,3 +5,4 @@ IPython
 ipywidgets==7.5.1
 torchvision
 pigeonXT-jupyter
+pandas
